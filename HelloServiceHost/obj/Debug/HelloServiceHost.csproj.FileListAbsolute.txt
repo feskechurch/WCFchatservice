@@ -1,0 +1,8 @@
+C:\Users\fesk\Desktop\Source\WCF\WcfService\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe.config
+C:\Users\fesk\Desktop\Source\WCF\WcfService\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.exe
+C:\Users\fesk\Desktop\Source\WCF\WcfService\HelloService\HelloServiceHost\bin\Debug\HelloServiceHost.pdb
+C:\Users\fesk\Desktop\Source\WCF\WcfService\HelloService\HelloServiceHost\bin\Debug\HelloService.dll
+C:\Users\fesk\Desktop\Source\WCF\WcfService\HelloService\HelloServiceHost\bin\Debug\HelloService.pdb
+C:\Users\fesk\Desktop\Source\WCF\WcfService\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.csprojResolveAssemblyReference.cache
+C:\Users\fesk\Desktop\Source\WCF\WcfService\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.exe
+C:\Users\fesk\Desktop\Source\WCF\WcfService\HelloService\HelloServiceHost\obj\Debug\HelloServiceHost.pdb
